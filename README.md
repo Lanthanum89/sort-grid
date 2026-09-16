@@ -2,6 +2,9 @@
 
 An F1-themed sorting algorithm visualiser. Cars represent array values and move across a starting grid as the real algorithm executes. The source panel stays synchronised through semantic recorder keys rather than fragile hard-coded line numbers.
 
+<img width="1202" height="706" alt="image" src="https://github.com/user-attachments/assets/f35b48c8-07ee-4b97-b920-94bf21cbfe51" />
+
+
 ## Features
 
 - Bubble, insertion, selection and Lomuto quick sort
